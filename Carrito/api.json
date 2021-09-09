@@ -1,0 +1,38 @@
+[
+    {
+        "precio":"450",
+        "id":1,
+        "title":"Café veracruz",
+        "thumbnailUrl": "https://static.wixstatic.com/media/8b3f41_e960a0f858244dfca39217cf0a6bbada~mv2.png/v1/fill/w_1080,h_1200,al_c/8b3f41_e960a0f858244dfca39217cf0a6bbada~mv2.png"
+    },
+    {
+        "precio":"250",
+        "id":2,
+        "title":"Café chipas",
+        "thumbnailUrl": "https://static.wixstatic.com/media/8b3f41_526416afe12944bc864ef1f499e43b75~mv2.png/v1/fill/w_1080,h_1200,al_c/8b3f41_526416afe12944bc864ef1f499e43b75~mv2.png"
+    },
+    {
+        "precio":"499",
+        "id":3,
+        "title":"Café volio",
+        "thumbnailUrl": "https://www.cafevolio.com/assets/img/gourmet-coffee-costa-rica.png"
+    },
+    {
+        "precio":"450",
+        "id":4,
+        "title":"Café juan valdez",
+        "thumbnailUrl": "https://global-uploads.webflow.com/5f96ebdeb7e4b038d8dc6679/6095b3f9a442f0e14fc0e8e9_cafe-origen-tolima-juan-valdez.png"
+    },
+    {
+        "precio":"550",
+        "id":5,
+        "title":"Café Origenes",
+        "thumbnailUrl": "http://cdn.shopify.com/s/files/1/0024/2860/0356/products/CafeChiapas_2.3_grande.png?v=1629403277"
+    },
+    {
+        "precio":"450",
+        "id":6,
+        "title":"Café Caribe",
+        "thumbnailUrl": "https://jumbo.vteximg.com.br/arquivos/ids/337438/Principal-15510750.jpg?v=637244875627130000"
+    }
+]
